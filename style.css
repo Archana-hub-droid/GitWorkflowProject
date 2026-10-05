@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    text-align: center;
+}
+
+nav {
+    background: #222;
+    padding: 15px;
+}
+
+nav h2 {
+    color: white;
+    margin: 0;
+}
+
+.hero {
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+.hero p {
+    font-size: 18px;
+}
+
+button {
+    padding: 12px 25px;
+    border: none;
+    background: #333;
+    color: white;
+    cursor: pointer;
+}
